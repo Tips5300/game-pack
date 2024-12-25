@@ -7,32 +7,26 @@ This package includes a collection of exciting games with beautiful graphics, mo
 
 ### 1. Om MoM Bubbles
 - **Demo**: [Play Now](https://games.cryptoexscript.com/om-mom-bubbles/)
-- **Screenshot**: (Include demo screenshot)
 - **Price**: $50
 
 ### 2. Bubble Woods
 - **Demo**: [Play Now](https://games.cryptoexscript.com/bubble-woods/)
-- **Screenshot**: (Include demo screenshot)
 - **Price**: $50
 
 ### 3. Smarty Bubbles 2
 - **Demo**: [Play Now](https://games.cryptoexscript.com/smarty-bubbles-2/)
-- **Screenshot**: (Include demo screenshot)
 - **Price**: $50
 
 ### 4. Fuzzies
 - **Demo**: [Play Now](https://games.cryptoexscript.com/fuzzies/)
-- **Screenshot**: (Include demo screenshot)
 - **Price**: $50
 
 ### 5. Liquid Sort
 - **Demo**: [Play Now](https://games.cryptoexscript.com/liquid-sort/)
-- **Screenshot**: (Include demo screenshot)
 - **Price**: $50
 
 ### 6. Diamond Rush
 - **Demo**: [Play Now](https://games.cryptoexscript.com/diamond-rush/)
-- **Screenshot**: (Include demo screenshot)
 - **Price**: $50
 
 ### Full Package
