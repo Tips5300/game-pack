@@ -49,5 +49,11 @@ This package includes a collection of exciting games with beautiful graphics, mo
 - Lightweight and optimized for performance.
 - Customizable gameplay and UI elements.
 
+## Technology Used
+- JavaScript
+- TweenMax
+- Pixi.js
+- html5 Canvas
+
 ## Contact
 For inquiries or purchases, contact us on Telegram: [@codersshopweb](https://t.me/codersshopweb)
