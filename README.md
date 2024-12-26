@@ -51,7 +51,7 @@ This package includes a collection of exciting games with beautiful graphics, mo
 
 ## Technology Used
 - JavaScript
-- TweenMax
+- TweenMax (GSAP)
 - Pixi.js
 - html5 Canvas
 
